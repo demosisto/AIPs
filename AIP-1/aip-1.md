@@ -1,11 +1,11 @@
 ---
-aip: <to be assigned>
+aip: 1
 title: AIP Guidelines
-status: Draft 
+status: Active 
 type: Meta
 author: theagora <@theagora>
 created: 2020-01-20
-updated: <yyyy-mm-dd>
+updated: 2020-01-20
 ---
 
 ## Summary
@@ -19,7 +19,7 @@ Agora is the organization supreme to its entity and concept. AIP is the inborn p
 ## Specification
 <!--The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Agora platforms.-->
 We'd specify the AIP Guidelines step by step:
-1. Read the [README.md](https://github.com/agorahub/AIPs/blob/master/README.md) and this [initial AIP](https://github.com/agorahub/AIPs/blob/master/aip-aip_guidelines.md) to understand the whole process and guidelines.
+1. Read the [README.md](https://github.com/agorahub/AIPs/blob/master/README.md) and this [initial AIP](https://github.com/agorahub/AIPs/blob/master/AIP-1/aip-1.md) to understand the whole process and guidelines.
 2. Study the previous [AIPs](https://github.com/agorahub/AIPs) to check availabilities and redundancies.
 3. Fork the [AIPs repo](https://github.com/agorahub/AIPs).
 4. Draft your AIP using the [AIP template](https://github.com/agorahub/AIPs/blob/master/aip-template.md).
