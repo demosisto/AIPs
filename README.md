@@ -1,6 +1,6 @@
 # Agora Improving Proposals (AIPs)
 
-The Agora Improving Proposals (AIPs) provide design documents new features, new initiatives and new preaches for the Agora platforms and communities.
+The Agora Improving Proposals (AIPs) provide design documents to describe new features, new initiatives and new inspirations for the Agora platforms and community.
 
 ## Contributing
 
@@ -18,11 +18,11 @@ Once your first PR is merged, we will help out merge PRs to draft AIPs. Make sur
 ## Status and Type
 
 Terms of Status:
-- Draft - an AIP that is undergoing rapid iteration and changes.
-- Active - an AIP that is in proceeding before finalization.
-- Final - an AIP that is in the list of implementation.
+- Draft - an AIP that is undergoing rapid iteration and changes for approval.
+- Active - an AIP that is approved as a candidate for finalization.
+- Final - an AIP that is in the shortlist for implementation.
 
 Terms of Type:
-- Meta - an AIP capable to the whole Agora community.
-- Feature - an AIP to add a new feature to the Agora platrorms.
-- Misc - an AIP referring to initiatives, campaigns or any other forms of proposal.
+- Meta - an AIP capable to the whole Agora community and platforms.
+- Feature - an AIP to add a new feature to the Agora platforms and community.
+- Misc - an AIP to describe initiatives, campaigns or any other inspirational proposals.
